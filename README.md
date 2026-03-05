@@ -3,7 +3,7 @@
 
 
 ## 🚀 I am..
-🏫 **2nd grade Student** of **Big-Data Major** at **Korea Polytechnic of Seoul Gangseo Campus**
+🏫 **3rd grade Student** of **Department of AI·Computer Science and Engineering** at **Korea Soongsil Cyber Univ.**
 
 🖋️ Learning about **Cloud Native Application, Big Data, AI**  
 
