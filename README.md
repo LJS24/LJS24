@@ -59,6 +59,7 @@
 ## 📌 Featured Projects
 ### 🏗️ **Spring Boot**
 🔹 [**FARMCARE+**](https://github.com/LJS24/FARMCARE.git) - Java 17 기반 MariaDB, JPS, OpenAPI를 이용한 솔루션 프로그램 제작
+
 🔹 [**EXPENSION**](https://github.com/LJS24/EXPENSION.git) - Java 17 기반 RDBMS/NoSQL, JPS, OpenAPI를 이용한 독서활동 보조 프로그램 제작
 
 
